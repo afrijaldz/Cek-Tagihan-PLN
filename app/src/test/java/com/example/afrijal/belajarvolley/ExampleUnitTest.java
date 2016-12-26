@@ -1,4 +1,4 @@
-package com.example.afrijal.vollydemo;
+package com.example.afrijal.belajarvolley;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.afrijal.vollydemo;
+package com.example.afrijal.belajarvolley;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
